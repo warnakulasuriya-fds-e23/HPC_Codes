@@ -1,4 +1,3 @@
-//Synchronization: Atomic Operation
 #include <stdio.h>
 #include <omp.h>
 
